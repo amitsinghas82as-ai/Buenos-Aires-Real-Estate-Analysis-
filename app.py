@@ -15,7 +15,7 @@ from sklearn.pipeline import make_pipeline
 
 
 ###########
-st.title("Buenos Aires Aparments")
+st.title("Buenos Aires Apar")
 st.header("Welcome to my real estate website")
 
 st.markdown("""
